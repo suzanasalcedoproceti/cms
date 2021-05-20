@@ -1,0 +1,2 @@
+
+Deprecated: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in D:\inetpub\wwwroot\admin\sc_impexi_bin.php on line 22

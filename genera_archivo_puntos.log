@@ -1,0 +1,11 @@
+
+Deprecated: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in D:\inetpub\wwwroot\admin\genera_archivo_puntos.php on line 18
+d:/inetpub/wwwroot//admin/puntos_vtex/middleware_D2CWhirlpoolPoints.txt<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title></title>
+</head>
+<body>
+  <br>Se exportó archivo de puntos<br><br><br><hr><br></body>
+</html>

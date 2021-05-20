@@ -1,0 +1,11 @@
+
+Deprecated: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in D:\inetpub\wwwroot\admin\sc_imppuntos_flex_bin.php on line 49
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title></title>
+</head>
+<body>
+  Se subieron 2 registros a tabla temporal de puntos flex<br>Se actualizaron los puntos Flex/PEP.<br>Total de registros (claves) importados: 0<br>Total de registros (claves) repetidos: 2<br>Total de registros (claves) no agregados: 0<br></body>
+</html>
